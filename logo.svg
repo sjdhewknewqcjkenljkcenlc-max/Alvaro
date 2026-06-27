@@ -1,0 +1,9 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Tarraga Sole Asociados</title>
+  <desc id="desc">Monograma TS con formas geométricas</desc>
+  <rect width="128" height="128" rx="32" fill="#102A43"/>
+  <path d="M28 35H100" stroke="#D9A441" stroke-width="8" stroke-linecap="round"/>
+  <path d="M64 36V93" stroke="#FFF7EA" stroke-width="8" stroke-linecap="round"/>
+  <path d="M41 73C45 64 51 60 60 60C72 60 78 68 88 68C94 68 99 65 103 60" stroke="#FFF7EA" stroke-width="7" stroke-linecap="round"/>
+  <path d="M34 93H94" stroke="#B46A3C" stroke-width="8" stroke-linecap="round"/>
+</svg>
